@@ -1,0 +1,52 @@
+.dLine  {
+    display: flex;
+    gap: 30px;
+}
+
+h2  {
+    width: 7vw;
+}
+
+.Yar    {
+    display: flex;
+    flex-direction: column;
+    gap: 30vh;
+    /* height: 200vh; */
+    /* justify-content: center;
+    align-items: center;
+    text-align: center; */
+}
+
+h3  {
+    width:20vw ;
+}
+
+.rusVers{
+    background-image: url(./img/Flag_of_Ukraine.svg.webp);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.englVers{
+    background-image: url(./img/Flag_of_the_U.S..svg.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+body    {
+    background-color: aqua;
+}
+
+.my {
+    padding-top: 5%;
+}
